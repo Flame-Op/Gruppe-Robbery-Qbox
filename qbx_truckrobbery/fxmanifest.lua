@@ -3,7 +3,7 @@ game 'gta5'
 version '1.1.1'
 
 author 'flame-op'
-description 'qbx_truckrobbery'
+description 'qbx_truckrobbery edited by flame'
 version '1.1.1'
 
 ox_lib 'locale'
