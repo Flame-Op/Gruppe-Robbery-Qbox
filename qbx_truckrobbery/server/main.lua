@@ -124,7 +124,7 @@ local function GetDiscord(source)
 end
 
 -- ✅ Discord Logger
-local webhookURL = 'https://discord.com/api/webhooks/1380464618333405186/nKD1gFLibH7Nzf0pVXIjmsVem1PJJ5VYL29jWBlt_2Jt5CPucAJmcw9R6wHLDd90ClHz'
+local webhookURL = 'https://discord.com/api/webhooks/1382041726058758225/T-7VnsO6nbnZKB_23X9KYxnVGviyQrMhRkmQ_Z4xLAg_iTTO2wA3oHO3sbMoE1-Z4qAu'
 
 local function sendDiscordLog(title, description, color)
     PerformHttpRequest(webhookURL, function() end, 'POST', json.encode({
